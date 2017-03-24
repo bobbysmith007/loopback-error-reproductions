@@ -1,0 +1,14 @@
+{
+  "in-memory": {
+    "name": "in-memory",
+    "connector": "memory"
+  },
+  "testdb": {
+    "name": "testdb",
+    "host": "localhost",
+    "user": "postgres",
+    "password": "postgres",
+    "database": "testdb",
+    "connector": "postgresql"
+  }
+}

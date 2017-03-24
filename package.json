@@ -1,0 +1,24 @@
+{
+  "name": "LoopbackDBError",
+  "version": "0.0.1",
+  "main": "src/server/server.js",
+  "scripts": {
+    "show-error": "nodejs show-error.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "loopback": "^3.0.0",
+    "loopback-boot": "^2.6.5",
+    "loopback-component-explorer": "^4.0.0",
+    "loopback-component-model-diagram": "^0.3.0",
+    "loopback-connector-postgresql": "^2.7.0"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "private": true,
+  "description": "Error Reproduction repo"
+}
