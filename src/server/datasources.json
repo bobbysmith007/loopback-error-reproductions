@@ -10,5 +10,14 @@
     "password": "postgres",
     "database": "testdb",
     "connector": "postgresql"
+  },
+  "testdbWorks": {
+    "name": "testdbWorks",
+    "host": "localhost",
+    "user": "postgres",
+    "password": "postgres",
+    "database": "testdb",
+    "connector": "postgresql",
+    "min": 3
   }
 }
